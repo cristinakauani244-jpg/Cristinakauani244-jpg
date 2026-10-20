@@ -1,7 +1,15 @@
 ## Olá! Eu sou a kauani cristina💎
 
-- Olá! Sou Kauane Cristina e atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID).
+Olá! 👋 Eu sou a Kauane Cristina
 
-Tenho grande interesse pela área de tecnologia e estou sempre em busca de novos conhecimentos e oportunidades para desenvolver minhas habilidades e crescer profissionalmente.
+💻 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID).
 
-No momento, estou em busca da minha primeira oportunidade de estágio na área de TI, onde eu possa colocar em prática o que venho aprendendo, adquirir experiência e contribuir com a equipe. Sou uma pessoa dedicada ao aprendizado e estou motivada a evoluir continuamente, acompanhando as novidades e os desafios desse universo tão inovador que é a tecnologia.
+🚀 Sou apaixonada pela área de tecnologia e estou sempre em busca de novos conhecimentos, desafios e oportunidades para aprimorar minhas habilidades.
+
+📚 Atualmente, estou focada no meu desenvolvimento acadêmico e profissional, aprendendo cada vez mais sobre programação e desenvolvimento de sistemas.
+
+🎯 Meu objetivo: conquistar uma oportunidade de estágio em TI, colocar meus conhecimentos em prática e crescer profissionalmente na área.
+
+✨ Acredito que cada projeto é uma oportunidade de aprender, evoluir e transformar ideias em soluções!
+
+📫 Vamos nos conectar e compartilhar conhecimento!
