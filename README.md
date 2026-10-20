@@ -1,4 +1,4 @@
-## Olá! Eu sou a kauani cristina💎
+## Olá! Eu sou a Kauani Cristina💎
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID).
 
