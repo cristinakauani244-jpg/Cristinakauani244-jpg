@@ -1,8 +1,6 @@
 
 
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
-</p>
+
 
 <h1 align="center">Kauani Cristina Silva</h1>
 
