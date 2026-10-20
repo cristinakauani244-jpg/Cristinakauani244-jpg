@@ -10,7 +10,13 @@ Vamos nos conectar e compartilhar conhecimento!
 ![Tecnologias](https://skillicons.dev/icons?i=html,css,js,python,figma)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristinakauani244-jpg/Cristinakauani244-jpg/snake-output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristinakauani244-jpg/Cristinakauani244-jpg/snake-output/github-snake.svg">
-  <img alt="Snake" src="https://raw.githubusercontent.com/cristinakauani244-jpg/Cristinakauani244-jpg/snake-output/github-snake.svg">
+
+# Olá, mundo! 👋
+
+Aqui está a minha cobrinha comendo os meus commits:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
 </picture>
