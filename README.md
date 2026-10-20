@@ -1,11 +1,10 @@
 ## Olá! Eu sou a kauani cristina💎
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID), com grande interesse em tecnologia, programação e desenvolvimento de sistemas.
+Sou estudante de Análise e Desenvolvimento de Sistemas na UNICID, apaixonada por tecnologia e sempre em busca de novos conhecimentos.
 
-Estou em constante busca por conhecimento e aprimoramento profissional, com o objetivo de conquistar uma oportunidade de estágio em TI, aplicar meus conhecimentos na prática e contribuir para o desenvolvimento de soluções tecnológicas.
+Busco uma oportunidade de estágio em TI para aplicar meus conhecimentos, desenvolver minhas habilidades e crescer profissionalmente na área.
 
-Estou aberta a novos desafios, aprendizados e conexões profissionais!
- 
+Vamos nos conectar e compartilhar conhecimento!
 ## 💻 Linguagens e tecnologias
 
 ![Tecnologias](https://skillicons.dev/icons?i=html,css,js,python,figma)
