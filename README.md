@@ -25,41 +25,5 @@
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=cristinakauani244-jpg&show_icons=true&theme=dark" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinakauani244-jpg&layout=compact&theme=dark" />
 
-name: generate pacman graph
 
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
-    steps:
-      - name: generate contribution graph SVGs
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          games: 'pacman'
-
-      - name: push SVGs to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-## Meu gráfico de contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristinakauani244-jpg/cristinakauani244-jpg/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristinakauani244-jpg/cristinakauani244-jpg/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man" src="https://raw.githubusercontent.com/cristinakauani244-jpg/cristinakauani244-jpg/output/pacman-contribution-graph.svg">
-</picture>
+ 
