@@ -1,10 +1,4 @@
-## Olá! Eu sou a Kauani Cristina💎
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID).
-
-Sou apaixonada pela área de tecnologia e estou sempre em busca de novos conhecimentos, desafios e oportunidades para aprimorar minhas habilidades.
-Acredito que cada projeto é uma oportunidade de aprender, evoluir e transformar ideias em soluções!
-Vamos nos conectar e compartilhar conhecimento!
 
 <p align="center">
   <img src="banner.png" alt="Banner" width="100%">
