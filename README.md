@@ -1,12 +1,7 @@
-## olá! Eu sou a Cristina Kauani 244 👋
+## olá! Eu sou a kauani cristina🤍
 
-- Atualmente não estou trabalhando
-- Estudando Análise de desenvolvimento de sistemas
-- contate-me no e-mail: Cristina.kauani@gmail.com
-- Pronouns: ela/ dela
+- Olá! Sou Kauane Cristina e atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID).
 
- <div>
-<a HREF=“https://beacons.ai/cristina.kauani244-jpg”>
-<img height=“180em” src = “https://github-readme-stats.vercel.app/api?username=cristina.kauani244-jpg&show_icons=true&theme=dark&includ_all_commits=true&count_private=true”/>
-<img height=“180em” src = “https//github-readme-stats.vercel.app/top-langs/?username=cristina.kauani244-jpg&layout=compact&langs_count=16&theme=dark”/>
-</div> 
+Tenho grande interesse pela área de tecnologia e estou sempre em busca de novos conhecimentos e oportunidades para desenvolver minhas habilidades e crescer profissionalmente.
+
+No momento, estou em busca da minha primeira oportunidade de estágio na área de TI, onde eu possa colocar em prática o que venho aprendendo, adquirir experiência e contribuir com a equipe. Sou uma pessoa dedicada ao aprendizado e estou motivada a evoluir continuamente, acompanhando as novidades e os desafios desse universo tão inovador que é a tecnologia.
