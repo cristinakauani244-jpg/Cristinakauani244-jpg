@@ -1,4 +1,4 @@
-## olá! Eu sou a kauani cristina🤍
+## Olá! Eu sou a kauani cristina💎
 
 - Olá! Sou Kauane Cristina e atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID).
 
