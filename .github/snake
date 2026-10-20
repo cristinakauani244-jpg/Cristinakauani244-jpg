@@ -1,0 +1,38 @@
+name: Gerar animação da cobrinha
+
+on:
+  # Executa automaticamente a cada 24 horas
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Permite rodar manualmente na aba Actions
+  workflow_dispatch:
+  
+  # Executa sempre que houver um push no branch main
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar os arquivos da cobrinha
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Enviar para abranch de saída (output)
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
