@@ -1,48 +1,80 @@
-<h1 align="center">Kauani Cristina Silva</h1>
+<div align="center">
 
-<p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas<br>
-  Apaixonada por tecnologia, sempre em busca de novos conhecimentos e desafios 💻
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=Kauani%20Cristina%20Silva&fontSize=44&fontColor=ffffff&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descSize=18&descAlignY=68" alt="Kauani Cristina Silva"/>
+
+**Tecnologia · Aprendizado contínuo** 💗
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-ff5fb8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/cristinakauani244-jpg?tab=repositories"><img src="https://img.shields.io/badge/Repositórios-9d4edd?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"/></a>
+<a href="https://github.com/cristinakauani244-jpg?tab=followers"><img src="https://img.shields.io/badge/Seguidores-c77dff?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Seguidores"/></a>
+<a href="https://github.com/cristinakauani244-jpg?tab=stars"><img src="https://img.shields.io/badge/Estrelas-ff7ac6?style=for-the-badge&logo=starship&logoColor=white" alt="Estrelas"/></a>
+
+</div>
+
+<br/>
+
+## 💗 Perfil
+
+**Tecnologia e novos projetos.**
+São Paulo, SP
+
+Sou apaixonada por tecnologia e estou sempre em busca de novos conhecimentos e desafios. Tenho interesse em desenvolvimento de software e quero ampliar minhas habilidades com estudos e novos projetos. Estou em busca da minha primeira oportunidade na área.
+
+> 🎓 **Formação:** Gestão de TI
+> 💻 **Cursando:** Análise e Desenvolvimento de Sistemas · UNICID · *em andamento*
+
+<br/>
+
+## 💜 Linguagens e tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-ff5fb8?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-c77dff?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-9d4edd?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-ff7ac6?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-7b2cbf?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-ff2e9a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-b5179e?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/S%C3%A3o_Paulo,_SP-5b2a86?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Em_busca_da_primeira_oportunidade-5b2a86?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UNICID-5b2a86?style=for-the-badge" />
-</p>
+<br/>
 
-<h3 align="center">Tecnologias</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
-</p>
+## ✨ Atualmente estudando
 
-<h3 align="center">Interesses</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvimento-2a1a40?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tecnologia-2a1a40?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projetos-2a1a40?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Inova%C3%A7%C3%A3o-2a1a40?style=for-the-badge" />
-</p>
+```text
+> Desenvolvimento
+```
 
-## Estatísticas do GitHub
+<details>
+<summary>Ver todos os temas de estudo</summary>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristinakauani244-jpg&show_icons=true&locale=pt-br&bg_color=1a1030&title_color=b388f0&text_color=e8dcff&icon_color=b388f0&border_color=5b2a86" />
-</p>
+- Desenvolvimento de sistemas
+- Projetos
+- Inovação
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinakauani244-jpg&layout=compact&locale=pt-br&bg_color=1a1030&title_color=b388f0&text_color=e8dcff&border_color=5b2a86" />
-</p>
+</details>
 
-## Contribuições
+<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=cristinakauani244-jpg&background=1a1030&border=5b2a86&ring=b388f0&fire=b388f0&currStreakNum=e8dcff&currStreakLabel=b388f0&sideNums=b388f0&sideLabels=e8dcff&dates=a898c8" />
-</p>
+## 🌸 No GitHub
 
----
+<div align="center">
 
-<h3 align="center">Obrigado por visitar meu perfil! 💜</h3>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=cristinakauani244-jpg&show_icons=true&bg_color=1c0a33&title_color=ff7ac6&text_color=f3e8ff&icon_color=c77dff&border_color=7b2cbf&border_radius=16&custom_title=Minha%20atividade%20no%20GitHub" alt="Estatísticas do GitHub"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinakauani244-jpg&layout=compact&bg_color=1c0a33&title_color=ff7ac6&text_color=f3e8ff&border_color=7b2cbf&border_radius=16&custom_title=Linguagens%20nos%20reposit%C3%B3rios" alt="Linguagens mais usadas"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5b2a86&height=100&section=footer" width="100%" />
+<br/>
 
+<img src="https://streak-stats.demolab.com?user=cristinakauani244-jpg&background=1c0a33&ring=ff7ac6&fire=ff5fb8&currStreakLabel=ffb3e0&sideLabels=c77dff&currStreakNum=ffffff&sideNums=ffffff&dates=e9d5ff&stroke=7b2cbf&border=7b2cbf&border_radius=16" alt="Sequência de contribuições"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Obrigado por visitar meu perfil 💜
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=110&section=footer" alt=""/>
+
+</div>
