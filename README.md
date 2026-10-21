@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=Kauani%20Cristina%20Silva&fontSize=44&fontColor=ffffff&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descSize=18&descAlignY=68" alt="Kauani Cristina Silva"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2d0b4e&height=220&section=header&text=Kauani%20Cristina%20Silva&fontSize=46&fontColor=ff7ac6&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descSize=18&descAlignY=68" alt="Kauani Cristina Silva"/>
 
 **Tecnologia · Aprendizado contínuo** 💗
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-ff5fb8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/kauani-cristina-0372a2279"><img src="https://img.shields.io/badge/LinkedIn-ff5fb8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/cristinakauani244-jpg?tab=repositories"><img src="https://img.shields.io/badge/Repositórios-9d4edd?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"/></a>
 <a href="https://github.com/cristinakauani244-jpg?tab=followers"><img src="https://img.shields.io/badge/Seguidores-c77dff?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Seguidores"/></a>
 <a href="https://github.com/cristinakauani244-jpg?tab=stars"><img src="https://img.shields.io/badge/Estrelas-ff7ac6?style=for-the-badge&logo=starship&logoColor=white" alt="Estrelas"/></a>
@@ -73,8 +73,12 @@ Sou apaixonada por tecnologia e estou sempre em busca de novos conhecimentos e d
 
 <div align="center">
 
-### Obrigado por visitar meu perfil 💜
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF7AC6&center=true&vCenter=true&width=520&height=60&lines=Obrigada+por+visitar+meu+perfil" alt="Obrigada por visitar meu perfil"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=110&section=footer" alt=""/>
+💜
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff5fb8&height=110&section=footer" alt=""/>
 
 </div>
+
+
