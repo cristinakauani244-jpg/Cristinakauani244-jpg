@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="center">Kauani Cristina Silva</h1>
 
 <p align="center">
@@ -49,3 +45,8 @@
 <h3 align="center">Obrigado por visitar meu perfil! 💜</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5b2a86&height=100&section=footer" width="100%" />
+
+{"returncode":0,"stdout":"-rw-r--r-- 1 claude ubuntu 11882 Oct 21 03:07 /mnt/user-data/outputs/perfil-rosa-roxo.zip\n\n/mnt/user-data/outputs/perfil-rosa-roxo:\ntotal 56\ndrwxr-xr-x 1 claude ubuntu     0 Oct 21 03:07 .\ndrwxr-xr-x 1 claude ubuntu     0 Oct 21 03:07 ..\n-rw-r--r-- 1 claude ubuntu  2794 Oct 21 03:07 README.md\n-rw-r--r-- 1 claude ubuntu  3875 Oct 21 03:07 aprendizado.svg\n-rw-r--r-- 1 claude ubuntu  1575 Oct 21 03:07 btn-estrelas.svg\n-rw-r--r-- 1 claude ubuntu  1619 Oct 21 03:07 btn-linkedin.svg\n-rw-r--r-- 1 claude ubuntu  1572 Oct 21 03:07 btn-repositorios.svg\n-rw-r--r-- 1 claude ubuntu  1785 Oct 21 03:07 btn-seguidores.svg\n-rw-r--r-- 1 claude ubuntu  2231 Oct 21 03:07 formacao.svg\n-rw-r--r-- 1 claude ubuntu  1452 Oct 21 03:07 github.svg\n-rw-r--r-- 1 claude ubuntu 10846 Oct 21 03:07 hero.svg\n-rw-r--r-- 1 claude ubuntu  1790 Oct 21 03:07 obrigado.svg\n-rw-r--r-- 1 claude ubuntu  2292 Oct 21 03:07 perfil.svg\n-rw-r--r-- 1 claude ubuntu  1466 Oct 21 03:07 tecnologias.svg\n77\nall svg valid xml\n","stderr":""}
+
+
+
