@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Inova%C3%A7%C3%A3o-2a1a40?style=for-the-badge" />
 </p>
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cristinakauani244-jpg&show_icons=true&locale=pt-br&bg_color=1a1030&title_color=b388f0&text_color=e8dcff&icon_color=b388f0&border_color=5b2a86" />
