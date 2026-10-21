@@ -38,7 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinakauani244-jpg&layout=compact&locale=pt-br&bg_color=1a1030&title_color=b388f0&text_color=e8dcff&border_color=5b2a86" />
 </p>
 
-## 🔥 Contribuições
+## Contribuições
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=cristinakauani244-jpg&background=1a1030&border=5b2a86&ring=b388f0&fire=b388f0&currStreakNum=e8dcff&currStreakLabel=b388f0&sideNums=b388f0&sideLabels=e8dcff&dates=a898c8" />
