@@ -29,6 +29,10 @@
 </p>
 
 
+## 💻 Linguagens e Tecnologias
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
+
 ## 📊 Estatísticas
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=cristinakauani244-jpg&show_icons=true&theme=dark&locale=pt-br" />
