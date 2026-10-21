@@ -28,3 +28,8 @@
   <img src="https://img.shields.io/badge/Inova%C3%A7%C3%A3o-2a1a40?style=for-the-badge" />
 </p>
 
+
+## 📊 Estatísticas
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=cristinakauani244-jpg&show_icons=true&theme=dark&locale=pt-br" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinakauani244-jpg&layout=compact&theme=dark&locale=pt-br" />
