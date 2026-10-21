@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2d0b4e&height=220&section=header&text=Kauani%20Cristina%20Silva&fontSize=46&fontColor=ff7ac6&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descSize=18&descAlignY=68" alt="Kauani Cristina Silva"/>
 
-**Tecnologia · Aprendizado contínuo** 💗
+**Tecnologia · Aprendizado contínuo** 
 
 <a href="https://www.linkedin.com/in/kauani-cristina-0372a2279"><img src="https://img.shields.io/badge/LinkedIn-ff5fb8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/cristinakauani244-jpg?tab=repositories"><img src="https://img.shields.io/badge/Repositórios-9d4edd?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"/></a>
@@ -13,7 +13,7 @@
 
 <br/>
 
-## 💗 Perfil
+##  🎀Perfil
 
 **Tecnologia e novos projetos.**
 São Paulo, SP
@@ -21,11 +21,11 @@ São Paulo, SP
 Sou apaixonada por tecnologia e estou sempre em busca de novos conhecimentos e desafios. Tenho interesse em desenvolvimento de software e quero ampliar minhas habilidades com estudos e novos projetos. Estou em busca da minha primeira oportunidade na área.
 
 > 🎓 **Formação:** Gestão de TI
-> 💻 **Cursando:** Análise e Desenvolvimento de Sistemas · UNICID · *em andamento*
+>  **Cursando:** Análise e Desenvolvimento de Sistemas · UNICID · *em andamento*
 
 <br/>
 
-## 💜 Linguagens e tecnologias
+## Linguagens e tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-ff5fb8?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -39,7 +39,7 @@ Sou apaixonada por tecnologia e estou sempre em busca de novos conhecimentos e d
 
 <br/>
 
-## ✨ Atualmente estudando
+##  Atualmente estudando
 
 ```text
 > Desenvolvimento
@@ -56,7 +56,7 @@ Sou apaixonada por tecnologia e estou sempre em busca de novos conhecimentos e d
 
 <br/>
 
-## 🌸 No GitHub
+##  No GitHub
 
 <div align="center">
 
@@ -75,7 +75,7 @@ Sou apaixonada por tecnologia e estou sempre em busca de novos conhecimentos e d
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF7AC6&center=true&vCenter=true&width=520&height=60&lines=Obrigada+por+visitar+meu+perfil" alt="Obrigada por visitar meu perfil"/>
 
-💜
+💋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5fb8&height=110&section=footer" alt=""/>
 
