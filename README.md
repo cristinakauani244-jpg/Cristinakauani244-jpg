@@ -73,9 +73,9 @@ Sou apaixonada por tecnologia e estou sempre em busca de novos conhecimentos e d
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF7AC6&center=true&vCenter=true&width=520&height=60&lines=Obrigada+por+visitar+meu+perfil" alt="Obrigada por visitar meu perfil"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF7AC6&center=true&vCenter=true&width=520&height=60&lines=Obrigada+por+visitar+meu+perfil" alt="Obrigada por visitar meu perfil!"/>
 
-💋
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5fb8&height=110&section=footer" alt=""/>
 
