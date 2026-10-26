@@ -13,7 +13,7 @@
 
 <br/>
 
-##  🎀Perfil
+##  Perfil
 
 **Tecnologia e novos projetos.**
 São Paulo, SP
